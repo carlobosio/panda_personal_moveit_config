@@ -1,0 +1,1 @@
+# panda_personal_moveit_config
