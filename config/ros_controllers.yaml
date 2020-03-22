@@ -24,9 +24,3 @@ joint_state_controller:
   publish_rate: 50
 controller_list:
   []
-panda_controller:
-  type: position_controllers/JointTrajectoryController
-  joints:
-    []
-  gains:
-    {}
