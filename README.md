@@ -8,7 +8,7 @@ source ~/<name of your move_it_workspace>/devel.setup.bash
 roslaunch franka_description panda_gazebo.launch
 ```
 
-and in a new terminal:
+and in a new terminal: 
 ```
 roslaunch franka_description rviz_moveit.launch
 ```
